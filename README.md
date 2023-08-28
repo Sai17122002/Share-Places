@@ -2,15 +2,24 @@
 
 Users list are displayed:
 
-![image](https://github.com/Sai17122002/Share-Places/assets/83086649/2013e66b-c6e8-4d64-bae7-e82043a9e4c8)
+![image](https://github.com/Sai17122002/Share-Places/assets/83086649/31dbb213-e540-4176-afab-4943fe2ac7eb)
 
 Users can signIn/signUp:
 
 ![image](https://github.com/Sai17122002/Share-Places/assets/83086649/6e75b243-5908-4926-90f4-89a29d718a8f)
 
-Users can edit/delete the places that they created
+Users can create/edit/delete the places that they created
 
-![image](https://github.com/Sai17122002/Share-Places/assets/83086649/5533100f-d79c-4213-89e7-509459ad7548)
+![image](https://github.com/Sai17122002/Share-Places/assets/83086649/0160ea4a-f37a-40bb-bae5-0ded324ce476)
+
+Maps has been used for user to view the places on map:
+
+![image](https://github.com/Sai17122002/Share-Places/assets/83086649/0c4e32ff-99b0-4f34-8cdc-64ce263c110b)
+
+Also users can view other user places:
+
+![image](https://github.com/Sai17122002/Share-Places/assets/83086649/5e425028-3bb3-48ec-ad73-f62f5063745e)
+
 
 Users can create places:
 
